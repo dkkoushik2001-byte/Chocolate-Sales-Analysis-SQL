@@ -123,6 +123,6 @@ The project contains the following tables:
 4. Analyze outputs
 
 # Author
-- Kousalya-
+ Kousalya
 
   
